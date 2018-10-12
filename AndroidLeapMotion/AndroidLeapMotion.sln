@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidLeapMotion", "AndroidLeapMotion.csproj", "{EEC7F89B-902D-0EA2-C362-C49FA00CE3EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidLeapMotion.Editor", "AndroidLeapMotion.Editor.csproj", "{0DAAF15C-2A28-27F2-F6BD-CB4DFC69D735}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEC7F89B-902D-0EA2-C362-C49FA00CE3EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC7F89B-902D-0EA2-C362-C49FA00CE3EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC7F89B-902D-0EA2-C362-C49FA00CE3EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC7F89B-902D-0EA2-C362-C49FA00CE3EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DAAF15C-2A28-27F2-F6BD-CB4DFC69D735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DAAF15C-2A28-27F2-F6BD-CB4DFC69D735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DAAF15C-2A28-27F2-F6BD-CB4DFC69D735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DAAF15C-2A28-27F2-F6BD-CB4DFC69D735}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
